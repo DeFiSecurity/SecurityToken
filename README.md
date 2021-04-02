@@ -19,4 +19,17 @@ The ultimate goal to create a well established system that can be immediately in
 
 Until we can achieve such a feat having even a simple contract search that displays any red flags for people to check before engaging in any trades. 
 
-While it will be impossible to 100% secure this Wild West of trading, when people to find themselves scammed we are proposing a reward for being the first to report it. This incentive will both help quickly spread information on the scam as well as alleviate a portion of the scammed persons loss.
+While it will be impossible to 100% to be protected from all scams, when people to find themselves scammed we are proposing a reward for being the first to report it. This incentive will both help quickly spread information on the scam as well as alleviate a portion of the scammed persons loss.
+
+Some people may be questioning what's the purpose of having a black chain if you're going to have a centralized checkpoint, doesn't this defeat the purpose?
+It doesn't defeat the purpose in that block chain we can very quickly create a systematic list of known scam addresses By the peer to peer interactions. They don't necessarily need to be cross referenced to be noted so in that way we can quickly have each an individual person identify the issues as they arise. In this way securing a fair degree of accuracy and reliability.
+
+Through a system of checks and references we can prevent bad actors from trading nuisance listings by checking against the number of previous transactions in other blockchains, the number of people they have submitted scam review & checking cross checking contract code pair matches and/or total volume of transactions via other services.
+
+Through this method we can quickly determine percent Through this method we can quickly determine to 80-90% probability the relative safety for transactions with the token/coin. After syncing up with our main server we can then give the new lease submittedly Scans and investigate through a combination of personal investigation and replicating trade interaction. 
+
+This method won't catch potential rug pulls in liquidity pools from happening but by cross referencing Interactions of known wallet address scams that are reused or follow similar pattern of operation.
+
+Coins with long histories of trade build upon themselves as trustworthy but as blockchain ultimately rely upon the p2p network that supports them, if interest in running nodes died out so does the value and safety of the coin. 
+
+Initially we'll begin by starting a Token on the Etherium network. All tokens will be premined and sold in the beginning as a source for funding the project. 1 Billion Tokens will be minted and pre-mined to be sold through a dedicated MasterNode running the exchange as I loathe UniSwaps and the patrolling bot parade stealing value from every liquidity pool.
